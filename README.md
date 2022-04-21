@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mshedden515
-- 👀 I’m interested in I3D, desing, music and cinema
-- 🌱 I’m currently learning, looking for a better future fo my family
-- 💞️ I’m looking to learn for every source reachable!
+- 👋 Hi, I’m Matias Shedden
+- 👀 I’m interested in getting a job in IT world
+- 🌱 I’m student of the TUDAI carreer
+- Actually I do 3D desing, and 3D things (industry 4.0)
+
 - 📫 How to contact me: 
+  email: matiasshedden@gmail.com
   instagram: @matiasshedden
   facebook: @blasfemaI3D
 
